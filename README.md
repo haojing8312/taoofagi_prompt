@@ -1,0 +1,2 @@
+# taoofagi_prompt
+该仓库用来记录公众号taoofagi作者工作和生活中积累的提示词模板
